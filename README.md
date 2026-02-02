@@ -10,7 +10,6 @@
 
 # 👋 About Me
 
-[![Email](https://img.shields.io/badge/Email-farwah.hamid21@gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:farwah.hamid21@gmail.com)
 [![COMSATS University](https://img.shields.io/badge/COMSATS-Cybersecurity-green?style=flat&logo=education&logoColor=white)](https://www.comsats.edu.pk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farwah%20Hamid-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
