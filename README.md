@@ -103,19 +103,5 @@ When I’m offline, I’m probably **simulating attacks on AI models or explorin
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align:bottom;"> Github Profile Stats
-
-<p align="center">
-  <a href="https://github.com/Farwah19">
-    <img alt="Farwah Hamid Github Stats" src="https://github-readme-stats.vercel.app/api?username=Farwah19&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact"/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farwah19&langs_count=10&show_icons=true&locale=en&theme=tokyonight"/>
-  </a>
-</p>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
----
-
   <h1 align='center'><i>Stay Learning!</i></h1>
 
