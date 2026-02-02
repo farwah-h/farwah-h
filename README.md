@@ -103,7 +103,6 @@ When I’m offline, I’m probably **simulating attacks on AI models or explorin
 
 ---
 
-<!-- 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile Stats.
 <p align="center">
     <a href="https://github.com/Farwah19">
@@ -112,9 +111,11 @@ When I’m offline, I’m probably **simulating attacks on AI models or explorin
 <br/>
 </a>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
--->
+
 
   </p>
+
+---
 
   <h1 align='center'><i>Stay Learning!</i></h1>
 
