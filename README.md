@@ -2,106 +2,82 @@
   <img src="https://wallpaperaccess.com/full/4735130.jpg" width="100%" height="10%">
 </a>
 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Farwah Hamid</h1>
+<h3 align="center">Cyber Security Student | Exploring AI & Machine Learning</h3>
 
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Farwah Hamid</h1>
-<h3 align="center">A passionate Cyber Security student from Pakistan</h3>
+---
 
-<!--<p align="left"> <a href="https://twitter.com/farwah_hamid" target="blank"><img src="https://img.shields.io/twitter/follow/farwah_hamid?logo=twitter&style=for-the-badge" alt="farwah_hamid" /></a> </p>-->
-
-# 👋 About Me
+# About Me
 
 [![COMSATS University](https://img.shields.io/badge/COMSATS-Cybersecurity-green?style=flat&logo=education&logoColor=white)](https://www.comsats.edu.pk/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farwah%20Hamid-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farwah%20Hamid-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farwah-hamid-364869266/)
 
 ---
 
-### 🔐 About Me
-I’m an **8th-semester Cybersecurity student** at COMSATS University Islamabad, exploring areas like:
+### About Me
+I’m a **final-year Cyber Security student at COMSATS University Islamabad** with interests in:
 
-- DFIR (Digital Forensics & Incident Response)  
-- GRC (Governance, Risk, and Compliance)  
-- Ethical Hacking  
-- Malware Analysis  
+- Digital Forensics & Incident Response (DFIR)  
+- Malware Analysis & Reverse Engineering  
+- Ethical Hacking & Security Testing  
 
----
-
-### 👯 Collaboration
-I’m open to working on **research projects, cybersecurity challenges, or practical security solutions**.  
+Alongside this, I am also exploring **Machine Learning and Computer Vision**, especially where it overlaps with security.
 
 ---
 
-### 💬 Ask Me About
-- Penetration Testing  
-- Reverse Engineering  
-- Static Malware Analysis  
-- Security Frameworks  
+### 🤖 AI / ML Exposure
+- Worked with ML models using Python  
+- Familiar with supervised & unsupervised learning  
+- Experience with CNNs, DNNs, and Autoencoders  
+- Built an autoencoder trained on Tiny ImageNet  
+- Basic understanding of applying ML in security contexts  
 
 ---
 
-### ⚡ Fun Fact
-When I’m offline, I’m probably **simulating attacks on AI models or exploring obfuscated malware 😉**.
+### Collaboration
+Open to working on **cybersecurity or AI/ML-related projects**, especially those involving real-world applications.
+
+---
+
+### Ask Me About
+- Network Security & Packet Analysis  
+- Malware Analysis & Reverse Engineering  
+- Machine Learning basics  
+- Python  
+
+---
+
+### Fun Fact
+I’m interested in how **AI models can be attacked or defended**, especially in security-focused environments.
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/farwah_hamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farwah_hamid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/farwah-hamid-364869266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/farwah-hamid-364869266/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/farwah._.hamid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/farwah._.hamid/" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="left">TryHackMe Profile:</h3>
-<p align="left">
-  <a href="https://tryhackme.com/p/YOUR_USERNAME" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/zumarr.png" alt="Your Image Badge" /></a>
+<a href="https://twitter.com/farwah_hamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/farwah-hamid-364869266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/farwah._.hamid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-<h3 align="left">Operating Systems:</h3>
+<h3 align="left">ML & Security Tools:</h3>
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" width="40" height="40"/>
 </p>
 
 ---
 
-<h3 align="left">IDEs & Code Editors:</h3>
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-  <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="intellij" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/></a>
-</p>
-
----
-
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" alt="wireshark" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-</p>
-
----
-
-  <h1 align='center'><i>Stay Learning!</i></h1>
-
+<h1 align='center'><i>Keep learning and building.</i></h1>
