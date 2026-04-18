@@ -36,10 +36,7 @@ Alongside this, I am exploring **Machine Learning and Computer Vision**, especia
 ### Projects
 - Intelligent Packet Analysis Tool  
 - Digital Forensics Investigation (Windows & Kali Linux)  
-- Autoencoder (Tiny ImageNet)  
-- CNN (MNIST)  
-- Spam Classifier  
-- DBSCAN Clustering  
+- Autoencoder (Tiny ImageNet)
 
 ---
 
