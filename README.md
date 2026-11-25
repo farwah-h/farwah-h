@@ -2,7 +2,7 @@
 </a>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Farwah Hamid</h1>
-<h3 align="center">Cyber Security Student | Exploring AI & Machine Learning</h3>
+<h3 align="center">Cyber Security Graduate | Exploring AI & Machine Learning</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 ### About Me
-I’m a **final-year Cyber Security student at COMSATS University Islamabad** with interests in:
+I’m a **Cyber Security Graduate from COMSATS University Islamabad** with interests in:
 
 - Digital Forensics & Incident Response (DFIR)  
 - Malware Analysis & Reverse Engineering  
